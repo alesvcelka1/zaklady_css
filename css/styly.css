@@ -7,12 +7,12 @@ body {
 #obal {
   max-width: 960px;
   margin: 0 auto;
-  border: 1px solid #808080;
+  border: 1px solid gray;
   padding: 20px;
   background-color: white;
   color: #333333;
 }
-}
+
 
 nav {
   background-color: #222;
@@ -76,9 +76,9 @@ li {
   margin-left: 20px;
 }
 
-li strong, li span {
+li strong {
   color: blue;
-  font-weight: bold;
+  
 }
 
 .poznamka {
