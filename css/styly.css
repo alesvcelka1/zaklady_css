@@ -1,7 +1,7 @@
 /* CSS Document */
 body {
-  font-family: Arial
-   background-color: lightgrey
+  font-family: Arial;
+  background-color:lightgrey;
 }
 
 #obal {
@@ -89,7 +89,7 @@ li strong {
 }
 
 footer {
-  color: gray;
+  color: grey;
   margin: 10px auto;
   text-align: center;
   font-size: 80%;
